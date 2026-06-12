@@ -148,5 +148,5 @@ export function formatRuntime(minutes?: number): string {
 
 export function getTMDBApiKey(): string {
   // Only accessed on the server (route handlers / server actions)
-  return process.env.TMDB_API_KEY || ""
+  return process.env.NEXT_PUBLIC_TMDB_API_KEY || ""
 }
