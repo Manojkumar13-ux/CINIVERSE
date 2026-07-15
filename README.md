@@ -28,11 +28,7 @@ Create a `.env.local` file with your TMDB API key:
 
 ```
 NEXT_PUBLIC_TMDB_API_KEY=your_api_key_here
-  <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0cf5f684-5c10-4a36-ba56-dd37fae9b9e3" />
- <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/97400d87-c6bf-4f94-bda9-0358f4b9a8dd" />
- <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/777141d0-59dc-403f-b3c6-3ef91077d8aa" />
-
-
+  
 ```
 
 
